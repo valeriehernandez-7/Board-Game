@@ -3,7 +3,7 @@
 ### DEMO
 ![DEMO](https://cdn.discordapp.com/attachments/843643336346959874/944295268818489374/WorkInProgress.gif)
 
-_Check out the [UML Class Diagram](https://cdn.discordapp.com/attachments/843643336346959874/944295268818489374/WorkInProgress.gif) of the project._
+_Check out the [UML Class Diagram](https://github.com/valeriehernandez-7/Board-Game/blob/main/docs/UML.png) of the project._
 
 ##
 
