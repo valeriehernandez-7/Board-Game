@@ -1,5 +1,12 @@
 # Board Game
 
+### DEMO
+![DEMO](https://cdn.discordapp.com/attachments/843643336346959874/944295268818489374/WorkInProgress.gif)
+
+_Check out the [UML Class Diagram](https://cdn.discordapp.com/attachments/843643336346959874/944295268818489374/WorkInProgress.gif) of the project._
+
+##
+
 ### University
 [Costa Rica Institute of Technology](https://www.tec.ac.cr/)
 
