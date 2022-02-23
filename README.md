@@ -3,7 +3,7 @@
 ### DEMO
 ![DEMO](https://github.com/valeriehernandez-7/Board-Game/blob/python-version/docs/DEMO.gif)
 
-_Check out the [UML Class Diagram](https://github.com/valeriehernandez-7/Board-Game/blob/python-version/docs/DEMO.gif) of the project._
+_Check out the [UML Class Diagram](https://github.com/valeriehernandez-7/Board-Game/blob/python-version/docs/UML.png) of the project._
 
 ##
 
