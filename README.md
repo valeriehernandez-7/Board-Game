@@ -1,9 +1,9 @@
 # Board Game
 
 ### DEMO
-![DEMO](https://github.com/valeriehernandez-7/Board-Game/blob/main/docs/DEMO.gif)
+![DEMO](https://github.com/valeriehernandez-7/Board-Game/blob/java-version/docs/DEMO.gif)
 
-_Check out the [UML Class Diagram](https://github.com/valeriehernandez-7/Board-Game/blob/main/docs/UML.png) of the project._
+_Check out the [UML Class Diagram](https://github.com/valeriehernandez-7/Board-Game/blob/java-version/docs/UML.png) of the project._
 
 ##
 
