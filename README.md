@@ -1,4 +1,4 @@
-# Board Game
+# Board Game - Java Version
 
 ### DEMO
 ![DEMO](https://github.com/valeriehernandez-7/Board-Game/blob/java-version/docs/DEMO.gif)
