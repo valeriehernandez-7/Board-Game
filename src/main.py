@@ -25,8 +25,8 @@ def play():
     rounds = 0
     playersList = []
 
-    print("* --- * --- * --- *  BOARD GAME  * --- * --- * --- *")
-    print("\n >>>   GENERAL SETTINGS   <<< ")
+    print("\n* --- * --- * --- *  BOARD GAME  * --- * --- * --- *")
+    print("\n\n >>>   GENERAL SETTINGS   <<< ")
     playersAmount = int(input("  > NUMBER OF PLAYERS: "))
     boardSize = int(input("  > NUMBER OF BOARD SPACES: "))
     diceSides = int(input("  > NUMBER OF DICE SIDES: "))
@@ -49,9 +49,8 @@ def play():
         print("============= ROUND " + str(rounds) + " =============")
         for p in range(len(game.playersList)):
             PlayerId = game.turn(p)
-            print("----- " + str(playersList[PlayerId].tokenColor) + " PLAYER TURN -----")
+            print("\n----- " + str(playersList[PlayerId].tokenColor) + " PLAYER TURN -----")
             print("> CURRENT POSITION: " + str(playersList[PlayerId].currentPosition))
-            print("+ + +  ROLLING THE DICE + + +")
             playersList[PlayerId].move(game.dice)
             # CHECKS WIN CONDITION
             if playersList[PlayerId].currentPosition < game.board.totalSpaces:
@@ -62,7 +61,7 @@ def play():
                 print("             " + str(playersList[PlayerId].tokenColor) + " PLAYER")
                 print("|--- * --- ** --- *** --- ** --- * ---|")
                 gameOver = True
-                print("\n\n\n\n* --- * --- * --- *  ----------  * --- * --- * --- *")
+                print("\n\n* --- * --- * --- *  ----------  * --- * --- * --- *")
                 break
         print("\n")
 

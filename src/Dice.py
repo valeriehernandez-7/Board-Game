@@ -12,5 +12,6 @@ class Dice:
 
     def roll(self):
         """Chooses a random number between 1 and the dice sides amount."""
+        print("+ + +  ROLLING THE DICE + + +")
         self.currentSide = rnd.randint(1, self.sidesAmount)
         return self.currentSide
