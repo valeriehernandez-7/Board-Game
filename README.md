@@ -1,4 +1,4 @@
-# Board Game
+# Board Game - Python Version
 
 ### DEMO
 ![DEMO](https://github.com/valeriehernandez-7/Board-Game/blob/python-version/docs/DEMO.gif)
